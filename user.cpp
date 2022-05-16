@@ -21,7 +21,7 @@ user::user(int uID, string usName, string  number, string em, string add) {
 }
 
 void user::dispalydatails() {
-	cout << "Display details of users" << endl;
+	cout << "Display details of user" << endl;
 }
 
 void user::registration() {
