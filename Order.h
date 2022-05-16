@@ -21,6 +21,5 @@ public:
 	void displayOrderdatils();
 	void addCart(Cart* cID);
 	~Order();
-
 };
 

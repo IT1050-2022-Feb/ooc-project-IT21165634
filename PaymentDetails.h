@@ -14,6 +14,5 @@ public:
 	PaymentDetails(int ID, string pay, string date);
 	void dispalyPaydetails();
 	~PaymentDetails();
-
 };
 
