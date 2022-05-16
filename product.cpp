@@ -18,8 +18,6 @@ product::product(int ID, string pName, float price, string proDesc, string proCa
 	proDesc = proDesc;
 	proCaty = proCaty;
 
-
-
 }
 
 void product::updateProductDetails()

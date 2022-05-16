@@ -27,8 +27,5 @@ public:
 	void checkProductAvailability();
 	~product();
 
-
-
-
 };
 

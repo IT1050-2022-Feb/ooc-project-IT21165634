@@ -25,8 +25,7 @@ void Cart::addProducts(product* pro)
 	if (noOfIteams < SIZE7)
 	{
 		proNo[noOfIteams] = pro;
-	}
-	
+	}	
 }
 
 Cart::~Cart()
