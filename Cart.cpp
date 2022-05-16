@@ -33,4 +33,6 @@ Cart::~Cart()
 	for (int i = 0; i < SIZE7; i++) {
 		delete  proNo[i];
 	}
+
+  
 }

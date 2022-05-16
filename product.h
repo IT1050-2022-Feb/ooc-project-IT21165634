@@ -27,5 +27,6 @@ public:
 	void checkProductAvailability();
 	~product();
 
+
 };
 

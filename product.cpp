@@ -38,4 +38,5 @@ void product::checkProductAvailability()
 product::~product()
 {
 	delete cus;
+  
 }
