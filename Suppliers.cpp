@@ -12,6 +12,7 @@ Suppliers::Suppliers(int id, string name)
 	suppName= name;
 }
 
+
 void Suppliers::supplyProducts(shop* sh)
 {
 	cout << "Suppliers sell products to the shop" << endl;

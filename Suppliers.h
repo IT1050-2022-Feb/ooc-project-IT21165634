@@ -13,7 +13,6 @@ private:
 	string suppName;
 	shop* sell[SIZE5];
 
-
 public:
 	Suppliers();
 	Suppliers(int id, string name);

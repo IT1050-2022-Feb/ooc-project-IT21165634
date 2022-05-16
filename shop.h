@@ -13,12 +13,12 @@ private:
 	product* pID[SIZE1];
 	Suppliers* supp[SIZE6];
 
-
 public:
 	shop();
 	shop(string re_name, string pw, int uID, string usName, string  number, string em, string add);
 	void manageProduct();
 	void buyProducts(product* buyID, Suppliers* sup);
+
 
 	~shop();
 };

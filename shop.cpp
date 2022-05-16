@@ -26,7 +26,6 @@ void shop::buyProducts(product* buyID, Suppliers* sup)
 }
 
 
-
 shop::~shop() {
 
     for (int i = 0;i < SIZE1;i++) {
